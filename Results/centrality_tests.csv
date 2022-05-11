@@ -1,4 +1,4 @@
-,weighted,differencing,tolerance,column,positive forward,largest positive ccf-coeff forward,negative forward,largest negative ccf-coeff forward,positive backward,largest positive ccf-coeff backward,negative backward,largest negative ccf-coeff backward
+,weighted,differencing,tolerance,statistic,largest positive ccf-coeff lead arg max,largest positive ccf-coeff lead,smallest negative ccf-coeff lead arg min,smallest negative ccf-coeff lead,largest positive ccf-coeff lag arg max,largest positive ccf-coeff lag,smallest negative ccf-coeff lag arg min,smallest negative ccf-coeff lag
 0,FALSE,0.5,0,Degree_Centrality,29,0.039920258,18,-0.027477025,26,0.033161725,7,-0.060225037
 1,FALSE,0.5,0,Betweeness_Centrality,0,0.069589036,6,-0.0405771,7,0.169343782,2,-0.071528027
 2,FALSE,0.5,0,Closeness Centrality,23,0.070015534,27,-0.077754197,2,0.08381939,7,-0.108841087
